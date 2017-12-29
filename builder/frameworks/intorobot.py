@@ -136,7 +136,7 @@ else:
             join(FRAMEWORK_DIR, "cores", board.get("build.core"), "platform", "MCU", "STM32F1xx", "STM32F1xx_HAL_Driver", "Inc"),
             join(FRAMEWORK_DIR, "cores", board.get("build.core"), "platform", "MCU", "STM32F1xx", "STM32_USB_Device_Library", "Class", "CDC", "Inc"),
             join(FRAMEWORK_DIR, "cores", board.get("build.core"), "platform", "MCU", "STM32F1xx", "STM32_USB_Device_Library", "Class", "DFU", "Inc"),
-            join(FRAMEWORK_DIR, "cores", board.get("build.core"), "platform", "MCU", "STM32F1xx", "STM32_USB_Device_Library", "Core", "Inc")
+            join(FRAMEWORK_DIR, "cores", board.get("build.core"), "platform", "MCU", "STM32F1xx", "STM32_USB_Device_Library", "Core", "Inc"),
             join(FRAMEWORK_DIR, "variants", board.get("build.variant"), "hal"),
             join(FRAMEWORK_DIR, "variants", board.get("build.variant"), "hal", "inc"),
             join(FRAMEWORK_DIR, "variants", board.get("build.variant"), "wiring_ex", "inc"),
