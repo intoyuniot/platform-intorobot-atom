@@ -18,7 +18,7 @@
         "mbed",
         "arduino"
     ],
-    "name": "IntoRobot atom(128k flash, 20k sram)",
+    "name": "IntoRobot Atom Without Booloader(128k flash, 20k sram)",
     "upload": {
         "disable_flushing": false,
         "maximum_ram_size": 20480,
