@@ -2,7 +2,7 @@
     "build": {
         "core": "intorobot",
         "cpu": "cortex-m3",
-        "extra_flags": "-DSTM32F103xB -DPLATFORM_ID=888004 -DPLATFORM_NAME=atom",
+        "extra_flags": "-DSTM32F103xB -DPLATFORM_ID=888001 -DPLATFORM_NAME=atom",
         "f_cpu": "72000000L",
         "hwids": [
             ["0x0483", "0xdf11"],
